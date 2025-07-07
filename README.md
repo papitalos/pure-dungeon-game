@@ -78,23 +78,6 @@ pure-dungeon-game/
 └── _zips/              # Additional sprite assets
 ```
 
-## Development
-
-This project is designed for learning purposes. Feel free to:
-- Modify game mechanics
-- Add new features
-- Improve graphics
-- Enhance the user interface
-- Optimize code structure
-
-## Contributing
-
-This is a learning project, but contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 
 
 **Enjoy exploring the dungeon!** 🎮⚔️ 
